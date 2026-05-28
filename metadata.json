@@ -1,0 +1,8 @@
+{
+  "name": "Soni Education & Training Center",
+  "description": "Soni Education & Training Center - Ramanujganj, Chhattisgarh is a premium computer education, skill development, and vocational training institute.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
